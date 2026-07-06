@@ -21,7 +21,7 @@ BlueWhale expects the following tools to be installed and available on
 |---|---|
 | [subfinder](https://github.com/projectdiscovery/subfinder) | `go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest` |
 | [assetfinder](https://github.com/tomnomnom/assetfinder) | `go install github.com/tomnomnom/assetfinder@latest` |
-| [subdominator](https://github.com/RevoltSecurities/Subdominator) | `pip install subdominator` |
+| [subdominator](https://github.com/RevoltSecurities/Subdominator) | `pipx install subdominator` |
 
 BlueWhale checks for these on startup and prints an installation hint for
 anything missing.
