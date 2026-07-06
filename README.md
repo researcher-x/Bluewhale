@@ -1,3 +1,5 @@
+<img src="/bluewhale/view-aquatic-whale_23-2151681920.avif" height="100" >
+
 # BlueWhale
 
 Passive subdomain reconnaissance framework written in Go. BlueWhale
