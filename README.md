@@ -1,4 +1,4 @@
-<img src="/bluewhale/blue-whale.jpg">
+<img src="/blue-whale.jpg">
 
 # BlueWhale
 
